@@ -1,2 +1,2 @@
 let jerome = 'hehe';
-function eguls() {} // added changes
+const num = 00; // added changes
