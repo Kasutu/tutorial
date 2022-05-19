@@ -1,4 +1,2 @@
 let jerome = 'hehe';
-function eguls() {
-  let changes;
-} // added changes
+function eguls() {} // added changes
